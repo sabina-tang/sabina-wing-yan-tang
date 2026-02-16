@@ -1,8 +1,8 @@
 #🌐 Personal Portfolio | Sabina Tang
-#[🔗 View Live Website](https://sabina-tang.github.io/hello/)
-#[🔗[View on CodePen](https://img.shields.io/badge/CodePen-Preview-blue?logo=codepen&logoColor=white)](https://codepen.io/Sabina-Tang/pen/GgqwMNL)
----
+**[🔗 View Live Website](https://sabina-tang.github.io/hello/)**
+**[![View on CodePen](https://img.shields.io/badge/CodePen-Preview-blue?logo=codepen&logoColor=white)](https://codepen.io/Sabina-Tang/pen/GgqwMNL)**
 
+---
 ### 📖 Project Overview
 This website serves as the **foundational pillar** of my digital portfolio, marking my transition from cloud-based sandboxes like CodePen to a professional, local-to-remote development workflow. By migrating this project into a structured Git environment, I have demonstrated core competencies in **version control** and **production-ready architecture**.
 
