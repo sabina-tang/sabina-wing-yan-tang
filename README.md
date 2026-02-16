@@ -1,6 +1,6 @@
 #🌐 Personal Portfolio | Sabina Tang
 
-**[🔗 View Live Website](https://sabina-tang.github.io/hello/)**
+**[🔗 View Live Website](https://sabina-tang.github.io/sabina-wing-yan-tang/)**
 
 **[![View on CodePen](https://img.shields.io/badge/CodePen-Preview-blue?logo=codepen&logoColor=white)](https://codepen.io/Sabina-Tang/pen/GgqwMNL)**
 
