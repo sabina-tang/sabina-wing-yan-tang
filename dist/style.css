@@ -1,0 +1,62 @@
+body {
+  background-color: beige;
+  background-image: url(https://www.pngfind.com/pngs/b/33-337952_shrimp-png.png);
+  background-size: 30%;
+  background-attachment: fixed;
+}
+
+#stem {
+  background-color: rgba(245, 245, 220, 0.7);
+  width: 500px;
+  padding: 30px;
+  margin: auto;
+  border: 12px solid crimson;
+}
+
+p {
+  font-family: verdana;
+  font-size: 100%;
+  color: darkorange;
+}
+
+.logo {
+  text-align: center;
+}
+
+#love {
+  font-size: 22px;
+  color: rgb(255, 100, 100);
+}
+
+.heading {
+  color: red;
+  background-color: pink;
+  text-align: center;
+}
+
+.main-content {
+  background-color: rgba(255, 255, 255, 0.85);
+  border: 2px solid powderblue;
+  padding: 20px;
+  margin: 2px;
+  width: 450px;
+}
+
+#allergy {
+  border: 5px solid red;
+  background-color: rgba(30, 20, 235, 0.7);
+  padding: 10px;
+}
+
+ul {
+  background-color: rgba(255, 255, 255, 0.85);
+  border: 2px solid powderblue;
+  padding: 20px;
+  margin: 2px;
+  width: 100px;
+}
+
+#source {
+  text-align: center;
+  text-decoration: overline dotted red;
+}
